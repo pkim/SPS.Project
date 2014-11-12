@@ -1,0 +1,9 @@
+.) Data Access Layer
+    -) Domain Model
+    -) POPOs
+    -) DAOs
+    -) AccessHandler
+.) Moodle Parser
+    -) HTTPSessionHandler
+    -) Course Parser
+    -) DocumentFetcher
