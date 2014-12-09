@@ -23,13 +23,14 @@
       <x>580</x>
       <y>120</y>
       <w>320</w>
-      <h>110</h>
+      <h>180</h>
     </coordinates>
     <panel_attributes>Document
 --
 -PK Name: varchar
 --
 -Hash: varchar
+-Version: 
 -Path: varchar
 --
 -FK Curse_Name: varchar
